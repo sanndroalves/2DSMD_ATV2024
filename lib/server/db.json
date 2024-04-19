@@ -1,0 +1,31 @@
+{
+  "opinioes": [
+    {
+      "id": "0",
+      "materia": "MAT",
+      "descricao": "Legal!"
+    },
+    {
+      "id": "1",
+      "materia": "Teste",
+      "descricao": "123"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "0",
+      "user": "Ale",
+      "password": "123"
+    },
+    {
+      "id": "dcbd",
+      "user": "Teste",
+      "password": "123"
+    },
+    {
+      "id": "608c",
+      "user": "Daniel",
+      "password": "321"
+    }
+  ]
+}
